@@ -1,0 +1,75 @@
+{
+
+    "events":[
+        {
+            "brand": "Mercedes-Benz",
+            "model": "E 43 AMG 4 Matic",
+            "year": "2017",
+            "price": "84 900лв"
+            
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "S 63 AMG 4Matic",
+            "year": "2018",
+            "price": "189 900лв"
+            
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "G 63 AMG Edition 1",
+            "year": "2019",
+            "price": "339 000лв"
+            
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "S 600",
+            "year": "2021",
+            "price": "334 000лв"
+            
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "GLE 43 AMG",
+            "year": "2018",
+            "price": "74 900лв"
+            
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "S 500",
+            "year": "2020",
+            "price": "230 834лв"
+            
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "GT 63 AMG",
+            "year": "2021",
+            "price": "456 000лв"
+            
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "E 63 AMG 4 Matic",
+            "year": "2017",
+            "price": "84 900лв"
+            
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "E 63 AMG 4 Matic",
+            "year": "2018",
+            "price": "97 800лв"
+            
+        },
+        {
+            "brand": "Mercedes-Benz",
+            "model": "S 53 AMG 4 Matic",
+            "year": "2018",
+            "price": "230 867лв"
+            
+        }
+    ]
+}
